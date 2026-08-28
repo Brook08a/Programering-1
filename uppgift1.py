@@ -13,6 +13,7 @@ print("Hello World")
 first_name= input("skriv ditt namn: ")
 last_namn= input("skriv ditt efternamn: ")
 
+age= input("skriv din ålder")
  
 pi = 3.14159265
 
